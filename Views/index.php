@@ -8,6 +8,7 @@
 <body>
     <form action="" method="post">
         <input type="text" value="test">
+        <input type="text" value="nama">
     </form>
 </body>
 </html>
