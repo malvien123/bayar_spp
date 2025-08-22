@@ -11,7 +11,7 @@
     <!-- Custom CSS -->
     <style>
         body {
-            background: linear-gradient(to right, #43e97b, #38f9d7);
+            background: linear-gradient(to right, #4facfe, #38f9d7);
             min-height: 100vh;
             display: flex;
             align-items: center;
@@ -31,15 +31,15 @@
             margin-bottom: 1rem;
         }
         .form-control:focus {
-            border-color: #43e97b;
+            border-color: #4facfe;
             box-shadow: 0 0 5px rgba(67, 233, 123, 0.5);
         }
         .btn-success {
-            background: #43e97b;
+            background: #4facfe;
             border: none;
         }
         .btn-success:hover {
-            background: #36d76b;
+            background: #4facfe;
         }
     </style>
 </head>
