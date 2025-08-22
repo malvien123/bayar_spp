@@ -81,7 +81,7 @@
         </div>
     </form>
     <div class="text-center mt-3">
-        <small>Sudah punya akun? <a href="index.php?controller=login&action=index">Login di sini</a></small>
+        <small>Sudah punya akun? <a href="login.php">Login di sini</a></small>
     </div>
 </div>
 
