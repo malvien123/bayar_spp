@@ -69,6 +69,14 @@
             <input type="text" name="nama" id="nama" class="form-control" placeholder="Masukkan nama lengkap" required>
         </div>
         <div class="mb-3">
+            <label for="kelas" class="form-label">Kelas</label>
+            <input type="text" name="nama" id="nama" class="form-control" placeholder="Masukkan Kelas" required>
+        </div>
+        <div class="mb-3">
+            <label for="Nisn" class="form-label">Nisn</label>
+            <input type="number" name="nama" id="nama" class="form-control" placeholder="Masukkan Nisn" required>
+        </div>
+        <div class="mb-3">
             <label for="no_telp" class="form-label">No. Telepon</label>
             <input type="text" name="no_telp" id="no_telp" class="form-control" placeholder="Masukkan nomor telepon" required>
         </div>

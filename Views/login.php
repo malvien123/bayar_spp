@@ -61,7 +61,7 @@
         </div>
     </form>
     <div class="text-center mt-3">
-        <small>Belum punya akun? <a href="index.php?controller=register&action=index">Daftar di sini</a></small>
+        <small>Belum punya akun? <a href="register.php">Daftar di sini</a></small>
     </div>
 </div>
 
